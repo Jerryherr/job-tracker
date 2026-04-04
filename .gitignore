@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Timestamped reports — keep only docs/index.html (deployed version)
+reports/
+
+# Logs
+logs/
+
+# Windows shortcuts
+*.bat
